@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-Aspiring Cybersecurity professional in my last semester at NJIT.
+Aspiring Cybersecurity professional.
+B.S. Information Technology - Network & Information Security
