@@ -7,3 +7,4 @@ Aspiring Cybersecurity professional.
 <br>
 B.S. Information Technology - Network & Information Security
 <br>
+Experience in Full-Stack, Cybersecurity, Penetration Testing, Metasploit Frameworks, Nessus, ANY.RUN, WindowsOS, MacOS, iOS, Linux/Kali/Ubuntu/Debian.
