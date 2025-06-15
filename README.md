@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## [bryanmadewell.com](https://bryanmadewell.com)
-## Email me(mailto:bryan@bryanmadewell.com)
+## [Email me](mailto:bryan@bryanmadewell.com)
 
 <br>
 Aspiring Cybersecurity professional. 
