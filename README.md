@@ -7,4 +7,4 @@ Aspiring Cybersecurity professional.
 <br>
 B.S. Information Technology - Network & Information Security
 <br>
-Experience in Full-Stack, Cybersecurity, Penetration Testing, Metasploit Frameworks, Nessus, ANY.RUN, WindowsOS, MacOS, iOS, Linux/Kali/Ubuntu/Debian.
+Experience in Full-Stack Development, Cybersecurity, Penetration Testing, Metasploit Frameworks, Nessus, ANY.RUN, WindowsOS, MacOS, iOS, Linux/Kali/Ubuntu/Debian. Currently interest in Machine Learning/LLM Frameworks.
