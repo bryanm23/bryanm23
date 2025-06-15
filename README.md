@@ -1,7 +1,7 @@
 ## Hi there 👋
-[bryanmadewell.com](https://bryanmadewell.com)
+## [bryanmadewell.com](https://bryanmadewell.com)
 <br>
-[Email Me](mailto:bryan@bryanmadewell.com)
+## [Email Me](mailto:bryan@bryanmadewell.com)
 
 <br>
 Aspiring Cybersecurity professional. 
