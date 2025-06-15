@@ -1,5 +1,6 @@
 ## Hi there 👋
 [bryanmadewell.com](https://bryanmadewell.com)
+<br>
 [Email Me](mailto:bryan@bryanmadewell.com)
 
 <br>
